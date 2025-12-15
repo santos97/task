@@ -1,0 +1,51 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Cash Flows from Operating Activities,nan,nan,nan,nan,nan,nan
+Net income,$,"14,974",$,"12,587",$,"5,644"
+Adjustments to reconcile net income to net cash provided by operating activities:,nan,nan,nan,nan,nan,nan
+"Depreciation, amortization and impairment",nan,"4,667",nan,"3,747",nan,"2,911"
+Stock-based compensation,nan,"1,812",nan,"1,560",nan,"2,121"
+Inventory and purchase commitments write-downs,nan,463,nan,177,nan,140
+Foreign currency transaction net unrealized (gain) loss,nan,(144),nan,81,nan,(55)
+Deferred income taxes,nan,"(6,349)",nan,(196),nan,(149)
+Non-cash interest and other operating activities,nan,81,nan,340,nan,245
+"Digital assets loss (gain), net",nan,—,nan,140,nan,(27)
+Changes in operating assets and liabilities:,nan,nan,nan,nan,nan,nan
+Accounts receivable,nan,(586),nan,"(1,124)",nan,(130)
+Inventory,nan,"(1,195)",nan,"(6,465)",nan,"(1,709)"
+Operating lease vehicles,nan,"(1,952)",nan,"(1,570)",nan,"(2,114)"
+Prepaid expenses and other assets,nan,"(2,652)",nan,"(3,713)",nan,"(1,540)"
+"Accounts payable, accrued and other liabilities",nan,"2,605",nan,"8,029",nan,"5,367"
+Deferred revenue,nan,"1,532",nan,"1,131",nan,793
+Net cash provided by operating activities,nan,"13,256",nan,"14,724",nan,"11,497"
+Cash Flows from Investing Activities,nan,nan,nan,nan,nan,nan
+"Purchases of property and equipment excluding finance leases, net of sales",nan,"(8,898)",nan,"(7,158)",nan,"(6,482)"
+"Purchases of solar energy systems, net of sales",nan,(1),nan,(5),nan,(32)
+Purchases of digital assets,nan,—,nan,—,nan,"(1,500)"
+Proceeds from sales of digital assets,nan,—,nan,936,nan,272
+Purchase of intangible assets,nan,—,nan,(9),nan,—
+Purchases of investments,nan,"(19,112)",nan,"(5,835)",nan,(132)
+Proceeds from maturities of investments,nan,"12,353",nan,22,nan,—
+Proceeds from sales of investments,nan,138,nan,—,nan,—
+Receipt of government grants,nan,—,nan,76,nan,6
+"Business combinations, net of cash acquired",nan,(64),nan,—,nan,—
+Net cash used in investing activities,nan,"(15,584)",nan,"(11,973)",nan,"(7,868)"
+Cash Flows from Financing Activities,nan,nan,nan,nan,nan,nan
+Proceeds from issuances of debt,nan,"3,931",nan,—,nan,"8,883"
+Repayments of debt,nan,"(1,351)",nan,"(3,364)",nan,"(14,167)"
+Collateralized lease repayments,nan,—,nan,—,nan,(9)
+Proceeds from exercises of stock options and other stock issuances,nan,700,nan,541,nan,707
+Principal payments on finance leases,nan,(464),nan,(502),nan,(439)
+Debt issuance costs,nan,(29),nan,—,nan,(9)
+Proceeds from investments by noncontrolling interests in subsidiaries,nan,—,nan,—,nan,2
+Distributions paid to noncontrolling interests in subsidiaries,nan,(144),nan,(157),nan,(161)
+Payments for buy-outs of noncontrolling interests in subsidiaries,nan,(54),nan,(45),nan,(10)
+Net cash provided by (used in) financing activities,nan,"2,589",nan,"(3,527)",nan,"(5,203)"
+Effect of exchange rate changes on cash and cash equivalents and restricted cash,nan,4,nan,(444),nan,(183)
+Net increase (decrease) in cash and cash equivalents and restricted cash,nan,265,nan,"(1,220)",nan,"(1,757)"
+"Cash and cash equivalents and restricted cash, beginning of period",nan,"16,924",nan,"18,144",nan,"19,901"
+"Cash and cash equivalents and restricted cash, end of period",$,"17,189",$,"16,924",$,"18,144"
+Supplemental Non-Cash Investing and Financing Activities,nan,nan,nan,nan,nan,nan
+Acquisitions of property and equipment included in liabilities,$,"2,272",$,"2,148",$,"2,251"
+Supplemental Disclosures,nan,nan,nan,nan,nan,nan
+"Cash paid during the period for interest, net of amounts capitalized",$,126,$,152,$,266
+"Cash paid during the period for income taxes, net of refunds",$,"1,119",$,"1,203",$,561

@@ -1,0 +1,44 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+in euro thousand Outstanding,Weighted average,Weighted average
+nan,maturity period,interest rates
+nan,(in years),(in %)
+"Liability due to Parent (BMW Holding B.V.) 12,660,000",0.08,0.05
+"Liability due to affiliated companies 1,213,355",0.20,0.14
+"Inhouse Bank BMW AG 94,699",Daily,ESTER* + spread
+"Trade payables due to BMW Group companies 143,815",30 days,none
+"Total 14,111,869",nan,nan
+*EONIA has been replaced by the ESTER interest rate (per 31-12-2022: 0.89 positive).,nan,nan
+For the liabilities these figures were during the financial year 2021 as follows:,nan,nan
+in euro thousand Outstanding,Weighted average,Weighted average
+nan,maturity period,interest rates
+nan,(in years),(in %)
+"Liability due to Parent (BMW Holding B.V.) 4,961,000",0.90,0.15
+"Liability due to affiliated companies 1,263,008",1.94,(0.15)
+"Inhouse Bank BMW AG 28,393",Daily,EONIA* + spread
+"Trade payables due to BMW Group companies 34,372",30 days,none
+"Total 6,286,773",nan,nan
+*EONIA = Euro Overnight Index Average (per 31-12-2021: 0.505% negative).,nan,nan
+"Although current liabilities are higher than current receivables, the Company does not face a liquidity issue.",nan,nan
+assured via inhouse bank funding of BMW AG.,nan,nan
+Interest payables and other liabilities,nan,nan
+in euro thousand,2022,2021
+Interest payables to third parties,"178,922","195,940"
+Other liabilities,"1,436",400
+Total,"180,358","196,340"
+Interest payables to third parties are mainly related to debt securities.,nan,nan
+Deferred tax liability,nan,nan
+The deferred tax for derivatives relates to the cost of hedging of derivative financial instruments included i,nan,nan
+hedge relationship. The deferred tax liability is calculated with a tax rate of 25.8% and results in,nan,nan
+euro 0.8 million (2021: euro 0.7 million).,nan,nan
+Financial instruments,nan,nan
+The carrying amounts of financial instruments are assigned to IFRS 9 categories in the following table:,nan,nan
+31 December 2022 At amortised cost Fair value through profit or,nan,Total
+in euro thousand,loss,nan
+Assets,nan,nan
+Derivative instruments,nan,nan
+Fair value hedges -,"145,638","145,638"
+Other derivative instruments -,"1,169,148","1,169,148"
+"Interest and other Receivables 65,155",nan,"- 65,155"
+"Cash and Cash equivalents 1,041",nan,"- 1,041"
+"Receivables from BMW Group companies 41,838,877",nan,"- 41,838,877"
+"Total of financial assets 41,905,073","1,314,786","43,219,859"

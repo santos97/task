@@ -1,0 +1,9 @@
+Unnamed: 0,Unnamed: 1,Ford,Unnamed: 2,Unnamed: 3,Ford Credit,Unnamed: 4,NRSROs
+nan,Issuer,nan,nan,nan,nan,nan,Minimum
+nan,Default /,Long-Term,nan,Long-Term,nan,nan,Long-Term
+nan,Corporate /,Senior,Outlook /,Senior,Short-Term,Outlook /,Investment
+nan,Issuer Rating,Unsecured,Trend,Unsecured,Unsecured,Trend,Grade Rating
+DBRS,BB (high),BB (high),Stable,BB (high),R-4,Stable,BBB (low)
+Fitch,BB+,BB+,Stable,BB+,B,Stable,BBB-
+Moody’s,N/A,Ba2,Stable,Ba2,NP,Stable,Baa3
+S&P,BB+,BB+,Positive,BB+,B,Positive,BBB-

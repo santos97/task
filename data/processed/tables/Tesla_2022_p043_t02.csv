@@ -1,0 +1,19 @@
+Unnamed: 0,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 16,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 23,Unnamed: 24,Unnamed: 26,Unnamed: 27
+nan,Net Carrying Value,nan,nan,Principal,nan,nan,Committed,Contractual,nan,Contractual,nan,nan,nan,nan,nan,nan,nan,nan
+nan,Current,nan,nan,Long-Term,nan,nan,Balance,Amount (1),nan,nan,Interest Rates,Maturity Date,nan,nan,nan,nan,nan,nan
+Recourse debt:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+2022 Notes,$,nan,29,nan,$,nan,—,$,nan,29,nan,$,nan,—,nan,2.375,nan,March 2022
+2024 Notes,nan,nan,1,nan,nan,nan,89,nan,nan,91,nan,nan,nan,—,nan,2.00,nan,May 2024
+Credit Agreement,nan,nan,—,nan,nan,nan,"1,250",nan,nan,"1,250",nan,nan,nan,920,nan,3.25,nan,July 2023
+Solar Bonds,nan,0.0,nan,nan,nan,7.0,nan,nan,7.0,nan,nan,nan,—,nan,4.00-5.75,nan,January 2022-January 2031,nan
+Total recourse debt,nan,nan,30,nan,nan,nan,"1,346",nan,nan,"1,377",nan,nan,nan,920,nan,nan,nan,nan
+Non-recourse debt:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Automotive Asset-backed Notes,nan,nan,"1,007",nan,nan,nan,"1,706",nan,nan,"2,723",nan,nan,nan,—,nan,0.12-5.48,nan,September 2022-September 2025
+Solar Asset and Loan-backed Notes,nan,nan,27,nan,nan,nan,800,nan,nan,844,nan,nan,nan,—,nan,2.87-7.74,nan,September 2024-September 2049
+Cash Equity Debt,nan,nan,24,nan,nan,nan,388,nan,nan,422,nan,nan,nan,—,nan,5.25-5.81,nan,July 2033-January 2035
+Automotive Lease-backed Credit Facilities,nan,nan,—,nan,nan,nan,—,nan,nan,—,nan,nan,nan,167,nan,Not applicable,September 2023,nan
+Other Loans,nan,nan,—,nan,nan,nan,14,nan,nan,14,nan,nan,nan,21,nan,5.10,nan,February 2033
+Total non-recourse debt,nan,nan,"1,058",nan,nan,nan,"2,908",nan,nan,"4,003",nan,nan,nan,188,nan,nan,nan,nan
+Total debt,nan,nan,"1,088",nan,nan,nan,"4,254",$,nan,"5,380",nan,$,nan,"1,108",nan,nan,nan,nan
+Finance leases,nan,nan,501,nan,nan,nan,991,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Total debt and finance leases,$,nan,"1,589",nan,$,nan,"5,245",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

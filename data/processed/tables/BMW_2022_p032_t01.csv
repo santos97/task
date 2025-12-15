@@ -1,0 +1,34 @@
+in euro thousand Notional,Fair value,Notional,Fair value.1
+amount,amount,amount,amount
+2022,2022,2021,2021
+Assets,nan,nan,nan
+"Foreign currency derivatives 6,413,834,568","255,684","4,919,389","210,979"
+"Interest rate derivatives 22,387,577","558,716","25,395,255","453,759"
+"Non-current assets 6,436,222,145","814,400","30,314,644","664,738"
+"Foreign currency derivatives 11,396,364,949","342,897","5,328,336","155,058"
+"Interest rate derivatives 19,008,065","157,489","14,004,625","52,520"
+"Current assets 11,415,373,014","500,386","19,332,961","207,578"
+"Total assets 17,851,595,159","1,314,786","49,647,605","872,316"
+Liabilities,nan,nan,nan
+"Foreign currency derivatives 1,874,948,690","213,916","4,430,402","213,546"
+"Interest rate derivatives 24,250,764","1,856,251","11,410,859","131,959"
+"Non-current liabilities 1,899,199,454","2,070,167","15,841,261","345,505"
+"Foreign currency derivatives 2,710,227,942","188,656","11,555,212","297,113"
+"Interest rate derivatives 26,135,695","128,036","5,779,667","19,476"
+"Current liabilities 2,736,363,637","316,692","17,334,879","316,589"
+"Total liabilities 4,635,563,091","2,386,859","33,176,140","662,094"
+"The fair values in the financial asset and liability categories approximate their carrying values, except for the",nan,nan,nan
+"receivables with a fixed interest rate, non-current debt securities and other (intercompany) payables with a",nan,nan,nan
+rate. The fair values shown are computed using market information available at the balance sheet date.,nan,nan,nan
+The following table shows the fair values and carrying amounts of financial assets and liabilities that are mea,nan,nan,nan
+or amortised cost and where carrying amounts differ from their fair value. For some balance sheet ite,nan,nan,nan
+corresponds to the carrying amount due to their short maturity.,nan,nan,nan
+31 December 2022:,nan,nan,nan
+in euro thousand Note,Fair value,Carrying,Difference
+nan,nan,value,nan
+BMW Group receivables (level 2) [9],"42,169,433","41,838,877","330,556"
+BMW Group liabilities (level 2) [15],"13,937,170","14,111,869","(174,699)"
+Non-current debt securities [13],"16,071,399","15,839,913","231,486"
+whereof level 1,"14,853,569",-,-
+whereof level 2,"1,217,830",-,-
+Loans due to banks (level 2) [14],"1,786,749","1,674,479","112,270"

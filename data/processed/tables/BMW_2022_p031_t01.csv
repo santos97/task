@@ -1,0 +1,39 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+% EUR,GBP,AUD,RUB,JPY,ZAR
+interest rate for 6 months (0.05),0.62,0.25,8.80,(0.08),5.36
+interest rate for one year (0.49),0.83,0.58,8.70,(0.10),5.47
+interest rate for five years 0.02,1.25,2.08,7.18,(0.15),6.80
+interest rate for 10 years 0.30,1.19,2.51,6.59,(0.10),7.95
+"Interest rates taken from interest rate curves were adjusted, where necessary, to take account of the credi",nan,nan,nan,nan,nan
+risk of the underlying financial instrument. Derivative financial instruments are measured at their fair value. T,nan,nan,nan,nan,nan
+"of derivative financial instruments are determined using measurement models, because of which there is a",nan,nan,nan,nan,nan
+amounts calculated could differ from realisable market prices on disposal. Observable financial market pric,nan,nan,nan,nan,nan
+into account in the measurement of derivative financial instruments. The valuation takes into account the Co,nan,nan,nan,nan,nan
+default risk and that of counterparties in the form of credit default swap (CDS) spreads which have appropriat,nan,nan,nan,nan,nan
+which can be observed on the market.,nan,nan,nan,nan,nan
+Financial instruments measured at fair value are allocated to different levels:,nan,nan,nan,nan,nan
+1. Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the e,nan,nan,nan,nan,nan
+access at the measurement date;,nan,nan,nan,nan,nan
+2. Level 2 inputs are inputs other than quoted prices included within level 1 that are observable for the ass,nan,nan,nan,nan,nan
+either directly or indirectly;,nan,nan,nan,nan,nan
+3. Level 3 inputs are unobservable inputs for the asset or liability.,nan,nan,nan,nan,nan
+At 31 December 2022 the financial assets and liabilities measured at fair value according to IFRS 9 are clas,nan,nan,nan,nan,nan
+follows in the measurement levels in accordance with IFRS 13:,nan,nan,nan,nan,nan
+in euro thousand,Level hierarchy in accordance with IFRS 13,nan,nan,nan,nan
+nan,Level 1,Level 2,nan,Level 3,nan
+Derivative instruments (assets),nan,nan,nan,nan,nan
+Fair value hedges,-,"145,638",nan,-,nan
+Other derivative instruments,-,"1,169,148",nan,-,nan
+Derivative instruments (liabilities),nan,nan,nan,nan,nan
+Fair value hedges,-,"1,931,179",nan,-,nan
+Other derivative instruments,-,"455,680",nan,-,nan
+At 31 December 2021 the financial assets and liabilities measured at fair value according to IFRS 9 are clas,nan,nan,nan,nan,nan
+follows in the measurement levels in accordance with IFRS 13:,nan,nan,nan,nan,nan
+in euro thousand,Level hierarchy in accordance with IFRS 13,nan,nan,nan,nan
+nan,Level 1,Level 2,nan,Level 3,nan
+Derivative instruments (assets),nan,nan,nan,nan,nan
+Fair value hedges,-,"488,621",nan,-,nan
+Other derivative instruments,-,"383,695",nan,-,nan
+Derivative instruments (liabilities),nan,nan,nan,nan,nan
+Fair value hedges,-,"164,092",nan,-,nan
+Other derivative instruments,-,"498,002",nan,-,nan

@@ -1,0 +1,13 @@
+Unnamed: 0,Stock Options,Unnamed: 1,RSUs,Unnamed: 2,Unnamed: 3,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+nan,nan,nan,nan,nan,Weighted-,nan,nan,nan,nan,Weighted-,nan,nan,nan,nan,nan,nan
+nan,nan,nan,Weighted-,nan,Average,Aggregate,nan,nan,nan,Average,nan,nan,nan,nan,nan,nan
+nan,Number of,nan,Average,nan,Remaining,Intrinsic,nan,Number,nan,Grant,nan,nan,nan,nan,nan,nan
+nan,Options,nan,Exercise,nan,Contractual,Value,nan,of RSUs,nan,Date Fair,nan,nan,nan,nan,nan,nan
+nan,(in thousands),nan,Price,nan,Life (years),(in billions),nan,(in thousands),nan,Value,nan,nan,nan,nan,nan,nan
+Beginning of period (1),nan,"357,120",nan,$,28.15,nan,nan,nan,nan,nan,"34,312",nan,$,88.23,nan,nan
+Granted,nan,"4,120",nan,$,226.53,nan,nan,nan,nan,nan,"8,714",nan,$,239.85,nan,nan
+Exercised or released,nan,"(7,971",),$,27.96,nan,nan,nan,nan,nan,"(17,702",),$,61.74,nan,nan
+Cancelled,nan,"(9,705",),$,24.25,nan,nan,nan,nan,nan,"(3,991",),$,140.68,nan,nan
+End of period,nan,"343,564",nan,$,30.65,5.19,nan,$,32.79,nan,nan,"21,333",nan,$,162.32,nan
+"Vested and expected to vest, December 31, 2022",nan,"343,105",nan,$,30.61,nan,5.19,nan,$,32.75,nan,nan,"21,323",nan,$,162.33
+"Exercisable and vested, December 31, 2022 (2)",nan,"304,862",nan,$,25.68,nan,5.08,nan,$,29.93,nan,nan,nan,nan,nan,nan

@@ -1,0 +1,33 @@
+in euro thousand Outstanding,Weighted average,Weighted average.1
+nan,maturity period,effective interest
+nan,(in years),rates
+nan,nan,(in %)
+Receivables from parent (BMW Holding B.V.) -,-,-
+"Receivables from affiliated companies 40,913,918",2.2,2.3
+"Inhouse Bank BMW AG 571,121",Daily,ESTER* + spread
+Trade receivables from parent (BMW Holding,nan,nan
+"B.V.) 10,321",-,-
+"Trade receivables from BMW Group companies 343,517",-,-
+"Total 41,838,877",nan,nan
+*EONIA has been replaced by the ESTER interest rate (per 31-12-2022: 0.89% positive).,nan,nan
+The weighted average maturity period and the weighted average effective interest rate of the receivables fro,nan,nan
+Group companies during the financial year 2021 are:,nan,nan
+in euro thousand Outstanding,Weighted average,Weighted average
+nan,maturity period,effective interest
+nan,(in years),rates
+nan,nan,(in %)
+Receivables from parent (BMW Holding B.V.) -,-,-
+"Receivables from affiliated companies 40,282,895",1.2,0.4 *
+"Inhouse Bank BMW AG 152,913",Daily,EONIA* + spread
+Trade receivables from parent (BMW Holding,nan,nan
+"B.V.) 28,206",-,-
+"Trade receivables from BMW Group companies 145,361",-,-
+"Total 40,609,375",nan,nan
+* Restated due to error in last year’s figures,nan,nan
+**EONIA = Euro Overnight Index Average (per 31-12-2021: 0.505% negative).,nan,nan
+The following table shows the maturity structure of the receivables from BMW Group companies:,nan,nan
+in euro thousand Maturity within Maturity between,Maturity later,Total
+one year one and five,than five years,nan
+years,nan,nan
+"2022 23,731,120 18,104,757","3,000","41,838,877"
+"2021 21,695,068 18,806,489","107,818","40,609,375"

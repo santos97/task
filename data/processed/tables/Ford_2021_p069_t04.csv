@@ -1,0 +1,11 @@
+Leverage Calculation,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+Debt,$,140.0,$,137.7,$,117.7
+Adjustments for cash,nan,(11.7),nan,(18.5),nan,(12.4)
+Adjustments for derivative accounting (a),nan,(0.5),nan,(1.5),nan,(0.4)
+Total adjusted debt,$,127.8,$,117.7,$,104.9
+Equity (b),$,16.4,$,15.6,$,12.4
+Adjustments for derivative accounting (a),nan,—,nan,0.1,nan,0.1
+Total adjusted equity,$,16.4,$,15.7,$,12.5
+Financial statement leverage (to 1) (GAAP) (c),nan,8.5,nan,8.8,nan,9.5
+Managed leverage (to 1) (Non-GAAP) (c),nan,7.8,nan,7.5,nan,8.4
+__________,nan,nan,nan,nan,nan,nan
